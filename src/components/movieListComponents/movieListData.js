@@ -1,0 +1,148 @@
+const MovieListData = [
+    {
+        id: 1,
+        name: 'Movie 1',
+        year: '2024',
+        image: require('../../images/card-img1.png'),
+    },
+    {
+        id: 2,
+        name: 'Movie 2',
+        year: '2024',
+        image: require('../../images/card-img2.png'),
+    },
+    {
+        id: 3,
+        name: 'Movie 3',
+        year: '2024',
+        image: require('../../images/card-img2.png'),
+    },
+    {
+        id: 4,
+        name: 'Movie 4',
+        year: '2024',
+        image: require('../../images/card-img3.png'),
+    },
+    {
+        id: 5,
+        name: 'Movie 5',
+        year: '2024',
+        image: require('../../images/card-img1.png'),
+    },
+    {
+        id: 6,
+        name: 'Movie 6',
+        year: '2024',
+        image: require('../../images/card-img2.png'),
+    },
+    {
+        id: 7,
+        name: 'Movie 7',
+        year: '2024',
+        image: require('../../images/card-img2.png'),
+    },
+    {
+        id: 8,
+        name: 'Movie 8',
+        year: '2024',
+        image: require('../../images/card-img3.png'),
+    },
+    {
+        id: 9,
+        name: 'Movie 9',
+        year: '2024',
+        image: require('../../images/card-img1.png'),
+    },
+    {
+        id: 10,
+        name: 'Movie 10',
+        year: '2024',
+        image: require('../../images/card-img2.png'),
+    },
+    {
+        id: 11,
+        name: 'Movie 11',
+        year: '2024',
+        image: require('../../images/card-img2.png'),
+    },
+    {
+        id: 12,
+        name: 'Movie 12',
+        year: '2024',
+        image: require('../../images/card-img3.png'),
+    },
+    {
+        id: 13,
+        name: 'Movie 13',
+        year: '2024',
+        image: require('../../images/card-img1.png'),
+    },
+    {
+        id: 14,
+        name: 'Movie 14',
+        year: '2024',
+        image: require('../../images/card-img2.png'),
+    },
+    {
+        id: 15,
+        name: 'Movie 15',
+        year: '2024',
+        image: require('../../images/card-img2.png'),
+    },
+    {
+        id: 16,
+        name: 'Movie 16',
+        year: '2024',
+        image: require('../../images/card-img3.png'),
+    },
+    {
+        id: 17,
+        name: 'Movie 17',
+        year: '2024',
+        image: require('../../images/card-img1.png'),
+    },
+    {
+        id: 18,
+        name: 'Movie 18',
+        year: '2024',
+        image: require('../../images/card-img2.png'),
+    },
+    {
+        id: 19,
+        name: 'Movie 19',
+        year: '2024',
+        image: require('../../images/card-img2.png'),
+    },
+    {
+        id: 20,
+        name: 'Movie 20',
+        year: '2024',
+        image: require('../../images/card-img3.png'),
+    },
+    {
+        id: 21,
+        name: 'Movie 21',
+        year: '2024',
+        image: require('../../images/card-img1.png'),
+    },
+    {
+        id: 22,
+        name: 'Movie 22',
+        year: '2024',
+        image: require('../../images/card-img2.png'),
+    },
+    {
+        id: 23,
+        name: 'Movie 23',
+        year: '2024',
+        image: require('../../images/card-img2.png'),
+    },
+    {
+        id: 24,
+        name: 'Movie 24',
+        year: '2024',
+        image: require('../../images/card-img3.png'),
+    },
+]
+
+export default MovieListData
